@@ -1,3 +1,5 @@
 # SZU-Digital-Image-Process-EXP-GUI
 
-Digital image processing experiments in the Wenhua Honors Class, Shenzhen University, the last exp includes a Tkinter GUI.
+Course "digital image processing" in Wenhua Honors Class, Shenzhen University.
+
+The experimental codes for baisc DIP. The last EXP includes a Tkinter GUI.
